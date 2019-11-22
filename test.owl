@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasDbXref -->
+
+    <AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0014769 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MONDO_0014769">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618550</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0019587 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MONDO_0019587">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618533</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0021094 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MONDO_0021094">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618534</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0060551 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MONDO_0060551">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618501</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.ebi.ac.uk/efo/EFO_0009531 -->
+
+    <Class rdf:about="http://www.ebi.ac.uk/efo/EFO_0009531">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618496</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_1465 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_1465">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618506</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_1507 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_1507">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618529</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_163976 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_163976">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:301030</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_169355 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_169355">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618495</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_169446 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_169446">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618523</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_178469 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_178469">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618522</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_1934 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_1934">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618548</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_215 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_215">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618555</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_248 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_248">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618535</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_317 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_317">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618531</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_319332 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_319332">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618484</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_33364 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_33364">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618546</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_35698 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_35698">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618528</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_425 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_425">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618463</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_648 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_648">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618499</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_65 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_65">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618513</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_656 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_656">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:301028</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_90120 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_90120">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618511</oboInOwl:hasDbXref>
+    </Class>
+    
+
+
+    <!-- http://www.orpha.net/ORDO/Orphanet_97245 -->
+
+    <Class rdf:about="http://www.orpha.net/ORDO/Orphanet_97245">
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:618524</oboInOwl:hasDbXref>
+    </Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+
