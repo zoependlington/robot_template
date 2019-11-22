@@ -1,0 +1,3 @@
+ID	Term Label (For new terms only)	Parent	Definition (optional/For new terms only)	Disease Location (optional)	Synonyms (optional, split with ||)	X-refs (optional, split with ||)	Definition Editor
+ID	A rdfs:label	SC %	A obo:IAO_0000115	EC EFO:0000408 and (EFO:0000784 some (% or (part_of some %)))	A oboInOwl:hasExactSynonym SPLIT=||	A oboInOwl:hasDbXref SPLIT=|| A	obo:IAO_0000117
+EXAMPLE:00000001	Example term	Example	This is an example of creating a new term in a ROBOT template.		e.g.||Ex.	XREF:0000001||XREF:0000002	Zoe Pendlington
